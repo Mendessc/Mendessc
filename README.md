@@ -2,7 +2,8 @@
 
 ● Formado no Curso Técnico de Dev na escola SENAI
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mendessc&theme=dark&show_icons=true)                [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mendessc&layout=compact)](https://github.com/Mendessc/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mendessc&layout=compact)](https://github.com/Mendessc/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mendessc&theme=dark&show_icons=true)
 
 ● Skills
 
